@@ -20,6 +20,9 @@ Clone the respository and open the index.html file in your browser of choice.
 ## Future improvements
 * Fixing the sprites' initial / starting position so that they won't appear by any chance on any of the buttons. This blocks clicking the buttons and the user needs to refresh the entire page.
 
+## Live demo
+Take a look at the project [here](https://boglarkasebestyen.github.io/pacMen/index.html).
+
 
 
 # License
