@@ -23,7 +23,7 @@ Clone the respository and open the index.html file in your browser of choice.
 
 
 # License
---
+
 MIT License
 
 Copyright (c) 2021 Boglárka Sebestyén
