@@ -1,7 +1,8 @@
 # PacMen Exercise
-This exercise demonstrates creating a PacMan "factory" for making pacmen with the help of the provided starter code. This project was refactored. I replaced the pacmen with 4 different images of frogs. I have also included an audio effect for when the sprites hit the window and bounce back. 
 
-The frogs and the sound are a reference to [King Julio](https://www.tiktok.com/@meetjulio?), the famous australian green tree frog that became famous on Tik-Tok.
+This is 1 out of 3 of my 1st semester final assignments via MIT xPro's Fullstack with MERN course. It demonstrates creating a PacMan "factory" for making pacmen with the help of the provided starter code. This project was refactored. I replaced the pacmen with 4 different images of frogs. I have also included an audio effect for when the sprites hit the window and bounce back. 
+
+The frogs and the sound are a reference to [King Julio](https://www.tiktok.com/@meetjulio?), the famous Australian green tree frog that became famous on Tik-Tok.
 
 
 ### How it works
